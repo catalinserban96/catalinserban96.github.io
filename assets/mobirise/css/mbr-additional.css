@@ -3139,36 +3139,6 @@ a {
 .cid-t3lVYRKUBp .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
-.cid-t4iESFxDt7 {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-t4iESFxDt7 .google-map {
-  height: 350px;
-  position: relative;
-}
-.cid-t4iESFxDt7 .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-t4iESFxDt7 .google-map [data-state-details] {
-  color: #6b6763;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-t4iESFxDt7 .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-t4iESFxDt7 .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
 .cid-t46jIys4sC {
   padding-top: 5rem;
   padding-bottom: 5rem;
